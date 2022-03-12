@@ -1,0 +1,8 @@
+400Gjitter
+PcL^2=0.100	PinL^2=0.500
+jit	17~32	 honsuu	16
+zatu0.0000
+ptoff=0.100
+tfwhm=1.0406
+yokozure0.5000
+toff=0.104
